@@ -33,10 +33,10 @@
 
 		computed: {
 			music() {
-				return `/static/${this.assets.whys}`
+				return `./static/${this.assets.whys}`
 			},
 			melody() {
-				return `/static/${this.assets.melody}`
+				return `./static/${this.assets.melody}`
 			}
 		},
 

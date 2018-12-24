@@ -122,7 +122,7 @@
 			getItemStyle(item) {
 				const { url } = item
 				return {
-					backgroundImage: `url(/static/carousel/${url})`
+					backgroundImage: `url(./static/carousel/${url})`
 				}
 			}
 		}
