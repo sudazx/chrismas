@@ -2,31 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd953a43-e68e-4be7-82f8-6cd4a12a376f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/css/app.834c6b8f.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/app.4c8f096d.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/app.4c8f096d.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-vendors.f05b7341.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-vendors.f05b7341.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/carousel/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/carousel/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/carousel/11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/carousel/12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/carousel/13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/carousel/14.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/carousel/15.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/carousel/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/carousel/3.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/carousel/4.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/carousel/5.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/carousel/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/carousel/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/carousel/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/carousel/9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/melody.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/star.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/whys.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -53,7 +29,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="2" />
-          <entry key="gitignore" value="3" />
+          <entry key="gitignore" value="4" />
           <entry key="html" value="3" />
           <entry key="ico" value="1" />
           <entry key="jpeg" value="33" />
@@ -71,13 +47,13 @@
           <entry key="Image" value="122" />
           <entry key="JSON" value="4" />
           <entry key="JavaScript" value="21" />
-          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="PLAIN_TEXT" value="4" />
           <entry key="Vue.js" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="gitignore" value="1" />
+          <entry key="gitignore" value="15" />
           <entry key="html" value="2" />
           <entry key="js" value="774" />
           <entry key="json" value="2" />
@@ -89,7 +65,7 @@
           <entry key="HTML" value="2" />
           <entry key="JSON" value="2" />
           <entry key="JavaScript" value="774" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="PLAIN_TEXT" value="15" />
           <entry key="Vue.js" value="6702" />
         </counts>
       </usages-collector>
@@ -103,10 +79,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/app.834c6b8f.css">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="20" lean-forward="true" selection-start-column="20" selection-end-column="20" />
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -177,11 +153,6 @@
               <item name="christmas" type="b2602c69:ProjectViewProjectNode" />
               <item name="christmas" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="christmas" type="b2602c69:ProjectViewProjectNode" />
-              <item name="christmas" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -244,7 +215,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34477000" />
+    <option name="totallyTimeSpent" value="34554000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2413" y="119" width="1383" height="1067" extended-state="0" />
@@ -305,13 +276,19 @@
     <entry file="file://$PROJECT_DIR$/src/components/Melody.vue" />
     <entry file="file://$PROJECT_DIR$/src/components/Home.vue" />
     <entry file="file://$PROJECT_DIR$/src/App.vue" />
-    <entry file="file://$PROJECT_DIR$/.gitignore" />
     <entry file="file://$PROJECT_DIR$/src/main.js" />
     <entry file="file://$PROJECT_DIR$/dist/favicon.ico" />
     <entry file="file://$PROJECT_DIR$/css/app.834c6b8f.css">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="20" lean-forward="true" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
